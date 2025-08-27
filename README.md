@@ -103,3 +103,8 @@ Features Include:
 
     Ticket channels like email and chat dominate issue submissions
 
+👩‍💻 Author
+
+Iqra Shaikh
+Data Scientist | Machine Learning Enthusiast
+📧 Contact: [shaikhiqra1503@gmail.com]
